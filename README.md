@@ -8,5 +8,7 @@
 
 
 >
-    "Good bye, old friend. May the Force be with you."
-                            ―Obi-Wan Kenobi, to Anakin Skywalker .
+    Bomb Disposal: (about the bomb disposal robot) “I’m just having a couple of problems with it.”
+    Moss: “What kind of operating system does it use?”
+    Bomb “Disposal: It’s er…Vista.”
+    Moss: “We’re going to die!"
