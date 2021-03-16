@@ -4,9 +4,7 @@
  
 ### Spotify Playing 🎧
 
- [<img src="https://spotify-now-playing-4.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ricardodematos)
-
-
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 >
     Bomb Disposal: (about the bomb disposal robot) “I’m just having a couple of problems with it.”
     Moss: “What kind of operating system does it use?”
