@@ -3,7 +3,8 @@
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
  
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/track/32dnKMni3I3gwUbWp4mi45)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21ncpz2njarhzmwpux5dsx2py&count=4)
+
 >
     Bomb Disposal: (about the bomb disposal robot) “I’m just having a couple of problems with it.”
     Moss: “What kind of operating system does it use?”
