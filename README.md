@@ -4,7 +4,7 @@
  
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-2-topaz.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+ [<img src="https://spotify-now-playing-4.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ricardodematos)
 
 
 >
