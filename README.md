@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing a master's degree in Informatics and Computing Engineering at FEUP.<br>👯 I’m looking to collaborate on innovative tech projects and research initiatives.<br>♟️ I’m always up for a quick chess match! Feeling lucky? Challenge me on lichess, RAAM2002.<br>🌱 I’m currently learning about Advanced Algorithms, Software Systems Architecture, and Game Design.<br>💬 Reach out to me if you have any amazing opportunities or just want a friendly chat.<br>⚡ Fun fact: When I was a child, I wanted to be a fireman, so I signed up to volunteer at a local fire department. 🚒
+🔭 I’m currently pursuing a master's degree in Informatics and Computing Engineering at FEUP.<br>👯 I’m looking to collaborate on innovative tech projects and research initiatives.<br>♟️ I’m always up for a quick chess match! Feeling lucky? Challenge me on lichess, RAAM2002.<br>🌱 I’m currently learning about Recommender Systems, Deep Learning, Mobile Applications, and Time Series Forecasting.<br>💬 Reach out to me if you have any amazing opportunities or just want a friendly chat.<br>⚡ Fun fact: When I was a child, I wanted to be a fireman, so I signed up to volunteer at a local fire department. 🚒
 
 
 ## 🌐 Socials:
